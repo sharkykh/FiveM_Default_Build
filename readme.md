@@ -21,6 +21,7 @@ Use that shortcut to start FiveM before connecting to a server that requires bui
 Note: You only need to do this once (until you reinstall FiveM).  
 
 - Download the EXE file and run it.
+- Windows might show a blue SmartScreen warning, you will need to click "More info" and then "Run anyway" at the buttom of the window.
 - Select the appropriate game build version or "Default" to revert.
 - Click "Set".
 - Done!
