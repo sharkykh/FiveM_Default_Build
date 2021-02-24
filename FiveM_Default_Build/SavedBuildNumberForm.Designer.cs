@@ -43,7 +43,7 @@
             this.ToggleButton.Name = "ToggleButton";
             this.ToggleButton.Size = new System.Drawing.Size(91, 102);
             this.ToggleButton.TabIndex = 0;
-            this.ToggleButton.Text = "Set";
+            this.ToggleButton.Text = "✏\r\nSet";
             this.ToggleButton.UseVisualStyleBackColor = true;
             this.ToggleButton.Click += new System.EventHandler(this.ToggleButton_Click);
             // 
